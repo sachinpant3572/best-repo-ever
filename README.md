@@ -1,3 +1,2 @@
-# best-repo-ever
 
-Sample change
+A Sample file
